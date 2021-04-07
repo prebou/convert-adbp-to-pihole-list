@@ -1,5 +1,4 @@
-# Converted by: https://github.com/anthonytwh/pihole-blocklist-converter
-# Blocklist: https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
 3sk.io
 3sk.co
 33sk.tv
