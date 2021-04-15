@@ -3983,6 +3983,7 @@ mp3spy.cc
 tagaev.com
 l2top.ru
 rsload.net
+serialfilm.ru
 freehat.cc
 tt-cup.com
 zerno-ua.com
@@ -4131,6 +4132,8 @@ pingvin.pro
 fakty.ua
 cikavosti.com
 versii.if.ua
+mycompplus.ru
+chas.cv.ua
 procherk.info
 prm.ua
 vgolos.com.ua
@@ -4345,3 +4348,4 @@ analytics.jst.ai/api/session
 politico.eu
 faz.net
 boerse-online.de
+sats.manager-magazin.de
